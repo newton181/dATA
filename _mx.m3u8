@@ -4,3 +4,5 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="TV Abierta",Imagen TV
 https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLv4uNQUcu5iHXXT_3XhU2TczTnrxiEl7DjB1DTmilhTH)/dm/3/x82z4if/d/live-2.m3u8
+#EXTINF:-1 tvg-logo="https://tvt.mx/wp-content/uploads/2019/06/apple-touch-icon.png" group-title="TV Abierta",TVT
+https://5e50264bd6766.streamlock.net/tabasco/videotabasco/playlist.m3u8
