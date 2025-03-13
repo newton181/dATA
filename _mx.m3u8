@@ -2,3 +2,9 @@
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-logo="https://images.telealacarta.mx/images/channels/azteca-7.png" group-title="TV Abierta",Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 tvg-logo="https://endorfinacultural.com/wp-content/uploads/2018/06/once.jpg" group-title="TV Abierta",Canal Once
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/adn40.jpg" group-title="TV Abierta",ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000185689070-4wnrfu-t500x500.jpg" group-title="TV Abierta",Imagen TV
+https://www.dailymotion.com/cdn/live/video/x82z4if.m3u8?sec=6cU3BXdiuwkSSwJ5VVG4BPTND3PYobxg3hz2Ns76TfCabW9pglZ1cuVTmnpyz01WK2mobJoKpyecQbrExCbaGA&dmTs=830000&dmV1st=1a0adf49-712d-34f6-b1f5-72fa39f37836
